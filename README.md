@@ -1,3 +1,3 @@
-# SPColor
+# SPUIColor
 
 A description of this package.
